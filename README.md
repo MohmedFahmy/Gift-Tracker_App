@@ -1,16 +1,49 @@
 # gift_tracker_app
 
-A new Flutter project.
+# Gift Tracker — Flutter
 
-## Getting Started
+A simple and polished **Gift Tracker** app built with Flutter.
+Use it to track gifts, recipients, occasions, budgets, and reminders — all with a responsive, modern UI.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Track gifts with title, recipient, occasion, date, budget, and notes.
+* Organize gifts by occasions (e.g., Birthday, Anniversary, Eid).
+* Mark gifts as **purchased**, **wrapped**, or **given**.
+* Reminders & due dates for upcoming occasions.
+* Responsive UI that adapts to phones and tablets.
+* Search and filter gifts by recipient, occasion, status, or date.
+* (Optional) Export/import JSON for backup.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+<img width="1920" height="1440" alt="73shots_so" src="https://github.com/user-attachments/assets/5345bc55-fcc2-4224-a51f-abd2d664facd" />
+
+
+
+
+
+## Installation / Run locally
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/<your-username>/gift-tracker-flutter.git
+cd gift-tracker-flutter
+```
+
+2. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+3. Run on device or emulator:
+
+```bash
+flutter run
+```
