@@ -32,7 +32,7 @@ Use it to track gifts, recipients, occasions, budgets, and reminders — all wit
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/gift-tracker-flutter.git
+git clone https://github.com/MohmedFahmy/Gift-Tracker_App.git
 cd gift-tracker-flutter
 ```
 
